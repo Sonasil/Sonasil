@@ -1,4 +1,4 @@
-[![MasterHead](https://www.basamak.com.tr/wp-content/uploads/2021/06/yazilim-nedir-1.jpg)]
+
 <h1 align="center">Hi 👋, I'm Asil Türkmen</h1>
 <h3 align="center">A developer from Cyprus</h3>
 
