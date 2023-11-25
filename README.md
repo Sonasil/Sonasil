@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Asil Türkmen</h1>
 <h3 align="center">A developer from Cyprus</h3>
 
-<p align="left"> <a href="https://twitter.com/asilturkmen1" target="blank"><img src="https://img.shields.io/twitter/follow/asilturkmen1?logo=twitter&style=for-the-badge" alt="asilturkmen1" /></a> </p>
-<h1 align="center">Hello, I am Asil Turkmen. I am studying Software Engineering in Cyprus, thanks to my passion for computers since I was little, I am well-equipped in computers. I have knowledge in Hardware, Computer repair, Network systems, Entry level html,css,python,php cyber security. I want to become a full stack developer by mastering myself in Java and C.</h1>
-- 💻I've had a passion for computers since I was little 
 
+<h1 align="center">Hello, I am Asil Turkmen. I am studying Software Engineering in Cyprus, thanks to my passion for computers since I was little, I am well-equipped in computers. I have knowledge in Hardware, Computer repair, Network systems, Entry level html,css,python,php cyber security. I want to become a full stack developer by mastering myself in Java and C.</h1>
+
+
+- 💻I've had a passion for computers since I was little
+  
 - 👨‍💻 I'm studying Software Engineering at Eastern Mediterranean University.
   
 - 🌱 I’m currently learning **Java,Reach native**
@@ -12,6 +14,8 @@
 
 
 - 📫 How to reach me **Turkmenasil@hotmail.com**
+
+<p align="left"> <a href="https://twitter.com/asilturkmen1" target="blank"><img src="https://img.shields.io/twitter/follow/asilturkmen1?logo=twitter&style=for-the-badge" alt="asilturkmen1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
