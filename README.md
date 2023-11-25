@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Asil Türkmen</h1>
+<h1 align="center">Hi 👋, I'm Asil</h1>
 <h3 align="center">A developer from Cyprus</h3>
 
 
