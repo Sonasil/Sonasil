@@ -9,7 +9,7 @@
   
 - 👨‍💻 I'm studying Software Engineering at Eastern Mediterranean University.
   
-- 🌱 I’m currently learning **Java,Reach native**
+- 🌱 I’m currently learning **Java**
 
 
 
