@@ -3,7 +3,7 @@
 <h3 align="center">A developer from Cyprus</h3>
 
 
-<h4>Hello, I am Asil Turkmen. I am studying Software Engineering in Cyprus.I am well-equipped in computers. I have knowledge in Hardware, Computer repair, Network systems, Entry level html,css,python,php cyber security. I want to become a full stack developer by mastering myself in Java and C.</h4>
+<h4>Hello, I am Asil Turkmen. I am studying Software Engineering in Cyprus.I am well-equipped in computers. I have knowledge in Hardware, Computer repair, Network systems, Entry level html,css,python,php cyber security. I want to become a full stack developer by mastering myself.</h4>
 
 
   
