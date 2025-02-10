@@ -3,7 +3,7 @@
 <h3 align="center">A developer from Cyprus</h3>
 
 
-<h4>Hello, I am Asil Turkmen. I am studying Software Engineering in Cyprus. I want to become a full stack developer by mastering myself.</h4>
+<h4>Hello, I am Asil Turkmen. I am studying Software Engineering in Cyprus.</h4>
 
 
   
