@@ -1,10 +1,10 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Asil%20Turkmen&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:003049,50:126782,100:219EBC&height=300&section=header&text=Asil%20Turkmen&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50&fontColor=FFFFFF)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=TypeScript+%2B+React+Enthusiast+%F0%9F%9A%80;Building+Modern+Web+%26+Mobile+Apps+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Based+in+Cyprus+%F0%9F%8C%8D)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8ECAE6&center=true&vCenter=true&random=false&width=600&lines=TypeScript+%2B+React+Enthusiast+%F0%9F%9A%80;Building+Modern+Web+%26+Mobile+Apps+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Based+in+Cyprus+%F0%9F%8C%8D)](https://git.io/typing-svg)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=sonasil&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=sonasil&color=219EBC&style=for-the-badge&label=PROFILE+VIEWS)
   
 </div>
 
@@ -130,21 +130,15 @@ A professional restaurant website with modern design and smooth user experience.
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sonasil&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=F72585&text_color=E0FBFC&ring_color=9D4EDD&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sonasil&show_icons=true&theme=vue&hide_border=true&bg_color=001220&title_color=8ECAE6&icon_color=219EBC&text_color=C1E3F0&ring_color=126782&cache_seconds=1800" alt="GitHub Stats" />
   
-  <img width="49%" src="https://streak-stats.demolab.com?user=Sonasil&theme=radical&hide_border=true&background=0A0E27&ring=00D9FF&fire=F72585&currStreakLabel=00D9FF&sideLabels=9D4EDD&currStreakNum=E0FBFC&sideNums=E0FBFC&dates=7DD3FC" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonasil&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E0FBFC&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Sonasil&theme=vue&hide_border=true&background=001220&ring=8ECAE6&fire=219EBC&currStreakLabel=8ECAE6&sideLabels=219EBC&currStreakNum=C1E3F0&sideNums=C1E3F0&dates=126782" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Sonasil&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00D9FF&text_color=E0FBFC&icon_color=F72585" alt="GitHub Trophy" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonasil&layout=compact&theme=vue&hide_border=true&bg_color=001220&title_color=8ECAE6&text_color=C1E3F0&langs_count=8&cache_seconds=1800" alt="Top Languages" />
   
 </div>
 
@@ -156,8 +150,8 @@ A professional restaurant website with modern design and smooth user experience.
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asil-t%C3%BCrkmen-224ab0241/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asil_turkmen28)
-  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Turkmenasil@hotmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://asilturkmen.com)
+  [![Email](https://img.shields.io/badge/Email-126782?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Turkmenasil@hotmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-219EBC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asilturkmen.com)
   
 </div>
 
@@ -168,6 +162,6 @@ A professional restaurant website with modern design and smooth user experience.
   **Thanks for visiting! 🚀**  
   *Feel free to explore my repositories and reach out if you'd like to collaborate!*
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:219EBC,50:126782,100:003049&height=120&section=footer)
   
 </div>
