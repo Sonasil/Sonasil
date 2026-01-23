@@ -130,9 +130,9 @@ A professional restaurant website with modern design and smooth user experience.
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sonasil&show_icons=true&theme=vue&hide_border=true&bg_color=001220&title_color=8ECAE6&icon_color=219EBC&text_color=C1E3F0&ring_color=126782&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sonasil&show_icons=true&theme=vue&hide_border=true&bg_color=001220&title_color=8ECAE6&icon_color=219EBC&text_color=C1E3F0&ring_color=126782&cache_seconds=1800" alt="GitHub Stats" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonasil&layout=compact&theme=vue&hide_border=true&bg_color=001220&title_color=8ECAE6&text_color=C1E3F0&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonasil&layout=compact&theme=vue&hide_border=true&bg_color=001220&title_color=8ECAE6&text_color=C1E3F0&langs_count=8&cache_seconds=1800" alt="Top Languages" />
   
 </div>
 
