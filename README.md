@@ -1,58 +1,173 @@
-
-<h1 align="center">Hi 👋, I'm Asil</h1>
-<h3 align="center">A developer from Cyprus</h3>
-
-
-<h4>Hello, I am Asil Turkmen. I am studying Software Engineering in Cyprus.</h4>
-
-
+<div align="center">
   
-- 👨‍💻 I'm studying Software Engineering at Eastern Mediterranean University.
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Asil%20Turkmen&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50)
   
-- 🌱 I’m currently learning **Java**
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=TypeScript+%2B+React+Enthusiast+%F0%9F%9A%80;Building+Modern+Web+%26+Mobile+Apps+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Based+in+Cyprus+%F0%9F%8C%8D)](https://git.io/typing-svg)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=sonasil&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+  
+</div>
 
+---
 
+## 👨‍💻 About Me
 
-- 📫 How to reach me **Turkmenasil@hotmail.com**
+```typescript
+const asil = {
+    location: "Cyprus 🇨🇾",
+    education: "Software Engineering @ Eastern Mediterranean University",
+    role: "Full-Stack Developer",
+    focus: ["Web Development", "Mobile Apps", "Cloud Solutions"],
+    currentlyLearning: ["Advanced TypeScript Patterns"],
+    interests: ["UI/UX Design", "System Architecture", "Open Source"],
+    funFact: "I turn coffee into code ☕ → 💻"
+};
+```
 
-<p align="left"> <a href="https://twitter.com/asilturkmen1" target="blank"><img src="https://img.shields.io/twitter/follow/asilturkmen1?logo=twitter&style=for-the-badge" alt="asilturkmen1" /></a> </p>
+🎓 Studying **Software Engineering** at Eastern Mediterranean University  
+💼 Specializing in **Full-Stack TypeScript Development** and **Mobile Applications**  
+🌱 Currently expanding my skills in **advanced software architecture**  
+💡 Passionate about creating **elegant, user-friendly solutions** to real-world problems  
+📍 Based in **Cyprus**, open to remote opportunities  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asilturkmen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asilturkmen1" height="30" width="40" /></a>
-<a href="https://fb.com/asil türkmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asil türkmen" height="30" width="40" /></a>
-<a href="https://instagram.com/asil_turkmen28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asil_turkmen28" height="30" width="40" /></a>
-<a href="https://discord.gg/388725914260865037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="388725914260865037" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+## 🛠️ Tech Stack
 
+### Frontend Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonasil&show_icons=true&locale=en&layout=compact" alt="sonasil" /></p>
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonasil&show_icons=true&locale=en" alt="sonasil" /></p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonasil&" alt="sonasil" /></p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+  
+### 💼 HesAppcim
+**Financial Management Platform**  
+A comprehensive invoice and financial management application with real-time data synchronization.
+
+**Tech Stack:**  
+`TypeScript` `Next.js` `Firebase` `Vercel`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/HesAppcim)
+
+</td>
+<td width="50%" align="center">
+
+### 📚 NedirBeo
+**KKTC Interactive Dictionary**  
+A mobile dictionary app for learning local terminology with an intuitive interface.
+
+**Tech Stack:**  
+`TypeScript` `React Native` `Expo` `Firebase`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/NedirBeo)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🌐 Personal Portfolio
+**Modern Portfolio Website**  
+A responsive, beautifully designed personal portfolio website.
+
+**Tech Stack:**  
+`TypeScript` `React` `Vite` `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/asilturkmen)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4A8FE7?style=for-the-badge&logo=vercel&logoColor=white)](https://asilturkmen.com)
+
+</td>
+<td width="50%" align="center">
+
+### 🍴 Yaylayemekevi
+**Restaurant Website**  
+A professional restaurant website with modern design and smooth user experience.
+
+**Tech Stack:**  
+`TypeScript` `Vite` `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/Yaylayemekevi)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sonasil&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=F72585&text_color=E0FBFC&ring_color=9D4EDD&cache_seconds=1800" alt="GitHub Stats" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=Sonasil&theme=radical&hide_border=true&background=0A0E27&ring=00D9FF&fire=F72585&currStreakLabel=00D9FF&sideLabels=9D4EDD&currStreakNum=E0FBFC&sideNums=E0FBFC&dates=7DD3FC" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonasil&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E0FBFC&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Sonasil&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00D9FF&text_color=E0FBFC&icon_color=F72585" alt="GitHub Trophy" />
+  
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asil-t%C3%BCrkmen-224ab0241/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asil_turkmen28)
+  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Turkmenasil@hotmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://asilturkmen.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **Thanks for visiting! 🚀**  
+  *Feel free to explore my repositories and reach out if you'd like to collaborate!*
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+  
+</div>
