@@ -80,7 +80,7 @@ A responsive, beautifully designed personal portfolio website.
 `TypeScript` `React` `Vite` `Tailwind CSS`
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/asilturkmen)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4A8FE7?style=for-the-badge&logo=vercel&logoColor=white)](https://asilturkmen.com)
+[![Live](https://img.shields.io/badge/Live-4A8FE7?style=for-the-badge&logo=vercel&logoColor=white)](https://asilturkmen.com)
 
 </td>
 <td width="50%" align="center">
@@ -93,7 +93,7 @@ A mobile dictionary app for learning local terminology with an intuitive interfa
 `React` `TypeScript` `Laravel` `PostgreSQL`
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/NedirBeo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4A8FE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nedirbeo.com)
+[![Live](https://img.shields.io/badge/Live-4A8FE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nedirbeo.com)
 
 </td>
 </tr>
@@ -120,6 +120,7 @@ A professional restaurant website with modern design and smooth user experience.
 `TypeScript` `Vite` `Tailwind CSS`
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/Yaylayemekevi)
+[![Live](https://img.shields.io/badge/Live-4A8FE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yaylayemekevi.com)
 
 </td>
 </tr>
