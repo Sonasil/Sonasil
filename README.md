@@ -50,7 +50,9 @@ const asil = {
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -70,32 +72,6 @@ const asil = {
 <tr>
 <td width="50%" align="center">
   
-### 💼 HesAppcim
-**Financial Management Platform**  
-A comprehensive invoice and financial management application with real-time data synchronization.
-
-**Tech Stack:**  
-`TypeScript` `Next.js` `Firebase` `Vercel`
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/HesAppcim)
-
-</td>
-<td width="50%" align="center">
-
-### 📚 NedirBeo
-**KKTC Interactive Dictionary**  
-A mobile dictionary app for learning local terminology with an intuitive interface.
-
-**Tech Stack:**  
-`TypeScript` `React Native` `Expo` `Firebase`
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/NedirBeo)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
 ### 🌐 Personal Portfolio
 **Modern Portfolio Website**  
 A responsive, beautifully designed personal portfolio website.
@@ -105,6 +81,33 @@ A responsive, beautifully designed personal portfolio website.
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/asilturkmen)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-4A8FE7?style=for-the-badge&logo=vercel&logoColor=white)](https://asilturkmen.com)
+
+</td>
+<td width="50%" align="center">
+
+### 📚 NedirBeo
+**KKTC Interactive Dictionary**  
+A mobile dictionary app for learning local terminology with an intuitive interface.
+
+**Tech Stack:**  
+`React` `TypeScript` `Laravel` `PostgreSQL`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/NedirBeo)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4A8FE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nedirbeo.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 💼 HesAppcim
+**Financial Management Platform**  
+A comprehensive invoice and financial management application with real-time data synchronization.
+
+**Tech Stack:**  
+`TypeScript` `Next.js` `Firebase` `Vercel`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonasil/HesAppcim)
 
 </td>
 <td width="50%" align="center">
